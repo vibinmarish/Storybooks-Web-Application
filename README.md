@@ -1,6 +1,6 @@
 # Storybooks-Web-Application
 
-This app lets the user login in with Google account, create, edit, delete stories. Set the stories as public and private. Look at all the stories of a specific user.
+This app lets the user login with Google account, create, edit, delete stories. Set the stories as public and private. Look at all the stories of a specific user.
 ### Requirements 
 
 - Node JS
