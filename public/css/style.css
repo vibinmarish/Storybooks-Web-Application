@@ -1,0 +1,29 @@
+body{
+    
+}
+p{
+    margin: 10px 0 !important
+}
+.login-container{
+    width:500px;
+    margin-top:50px;
+    text-align: center;
+}
+.nav-wrapper{
+    background-color:#1565c0 !important;
+   }
+.btn{
+    background-color: #1565c0 !important;
+}
+.fa-small{
+    font-size:18px !important
+}
+
+.btn-float{
+    float:left;
+    margin-right: 10px;
+}
+
+.img-small{
+    width:180px;
+}
